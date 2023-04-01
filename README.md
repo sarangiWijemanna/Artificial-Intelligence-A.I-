@@ -41,7 +41,7 @@
 
 ## COMPUTER VISION
 
-### ✅ [DAY – 1 : Introduction to Computer Vision| How to install computer vision libraries]()
+### ✅ [DAY – 1 : Introduction to Computer Vision| How to install computer vision libraries](https://github.com/sarangiWijemanna/Artificial-Intelligence-A.I-/tree/main/Day%201%20-%20Introduction%20to%20Computer%20Vision)
 
 #### Definition 
 
@@ -69,7 +69,7 @@ We used ```pip``` for installing the necessary libraries.
 
 Object Recognition, Face Recognition, Autonomous Vehicle, Disease Detection, Emotion Recognition, Agriculture, Satellite Image Analysis, Mobile & Camera, OCR, Cryptography
 
-### ✅ [[DAY – 2 : Moving Object Detection and tracking using OpenCV]()
+### ✅ [DAY – 2 : Moving Object Detection and tracking using OpenCV](https://github.com/sarangiWijemanna/Artificial-Intelligence-A.I-/tree/main/Day%202%20-%20Moving%20Object%20Detection%20and%20tracking%20using%20OpenCV)
 
 🔯 [DAY – 3 : Face Detection and Tracking using OpenCV]()
 
