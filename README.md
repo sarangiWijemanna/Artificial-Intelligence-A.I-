@@ -147,4 +147,4 @@ Don't forget to leave feedback if you find this repo useful or any improvements.
 
 Thank you 🧡
 
-✨🤝 ```Pantech Solutions``` ```Internship``` ```Machine Learning Concept```
+✨🤝 ```Pantech Solutions_INDIA``` ```Internship``` ```Artificial-Intelligence Concept```
