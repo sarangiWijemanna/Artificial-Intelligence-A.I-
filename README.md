@@ -71,7 +71,16 @@ Object Recognition, Face Recognition, Autonomous Vehicle, Disease Detection, Emo
 
 ### ✅ [DAY – 2 : Moving Object Detection and Tracking using OpenCV](https://github.com/sarangiWijemanna/Artificial-Intelligence-A.I-/tree/main/Day%202%20-%20Moving%20Object%20Detection%20and%20tracking%20using%20OpenCV)
 
-🔯 [DAY – 3 : Face Detection and Tracking using OpenCV]()
+Moving object detection is a technique used in computer vision and image processing. 
+Multiple consecutive frames from a video are compared by various methods to determine if any moving object is detected.
+
+### ✅ [DAY – 3 : Face Detection and Tracking using OpenCV]()
+
+Face detection refers to the task of locating the presence of a human face within an image or video frame. 
+OpenCV provides a pre-trained Haar Cascade classifier that can be used to detect faces in images and videos. 
+The Haar Cascade classifier is a machine learning-based approach that uses a set of features to detect faces.
+Once the face is detected, face tracking is performed to track the detected face as it moves around the video stream. 
+Face tracking typically involves locating the face in each video frame and estimating its position and orientation.
 
 🔯 [DAY – 4 : Object Tracking based on color using OpenCV]()
 
