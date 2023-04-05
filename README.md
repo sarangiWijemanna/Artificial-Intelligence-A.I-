@@ -74,7 +74,7 @@ Object Recognition, Face Recognition, Autonomous Vehicle, Disease Detection, Emo
 Moving object detection is a technique used in computer vision and image processing. 
 Multiple consecutive frames from a video are compared by various methods to determine if any moving object is detected.
 
-### ✅ [DAY – 3 : Face Detection and Tracking using OpenCV]()
+### ✅ [DAY – 3 : Face Detection and Tracking using OpenCV](https://github.com/sarangiWijemanna/Artificial-Intelligence-A.I-/tree/main/Day%203%20-%20Face%20detection%20%26%20Tracking%20Using%20OpenCV)
 
 Face detection refers to the task of locating the presence of a human face within an image or video frame. 
 OpenCV provides a pre-trained Haar Cascade classifier that can be used to detect faces in images and videos. 
