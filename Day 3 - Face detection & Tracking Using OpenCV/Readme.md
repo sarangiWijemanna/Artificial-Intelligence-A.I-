@@ -44,12 +44,20 @@ Both face detection and tracking have numerous applications in various fields, i
 
 ## Application Example
 
-1. [Face Detect]()
+1. [Face Detect](https://github.com/sarangiWijemanna/Artificial-Intelligence-A.I-/blob/main/Day%203%20-%20Face%20detection%20%26%20Tracking%20Using%20OpenCV/Face%20detection%20%26%20Tracking.py)
 
-<img align="center" src="img_2.png" alt="icon" width="400"/>
+   <img align="center" src="img_2.png" alt="icon" width="400"/>
 
-3. [Creating Face Dataset]()
+3. [Creating Face Dataset](https://github.com/sarangiWijemanna/Artificial-Intelligence-A.I-/blob/main/Day%203%20-%20Face%20detection%20%26%20Tracking%20Using%20OpenCV/Creating%20Face%20Dataset.py)
 
-Now, we want to save 30 captured images from the webcam to the local directory.
+  - Now, we want to save 30 captured images from the webcam to the local directory.
 
-<img align="center" src="img_3.png" alt="icon" width="400"/>
+    <img align="center" src="img_3.png" alt="icon" width="400"/>
+
+
+
+## Suggestions
+
+Don't forget to leave feedback if you find this repo useful or any improvements. ⭐🌹🥧
+
+Thank you 🧡
