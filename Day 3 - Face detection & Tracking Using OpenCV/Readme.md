@@ -8,7 +8,7 @@ Face tracking involves locating and following a specific human face as it moves 
 
 Both face detection and tracking have numerous applications in various fields, including security and surveillance, human-computer interaction, video editing and special effects, biometric authentication, marketing and advertising, and healthcare.
 
-<img align="center" src="img_1.png" alt="icon" width="100"/>
+<img align="center" src="img_1.png" alt="icon" width="200"/>
 
 
 ## Algorithm : Haar Cascade Frontal-face Algorithm 
@@ -22,7 +22,7 @@ Both face detection and tracking have numerous applications in various fields, i
   - The resulting classifier is then used to detect faces in new images. 
   - The Frontalface variant of the Haar Cascade algorithm is specifically trained for detecting frontal views of human faces.
   
-    <img align="center" src="img.png" alt="icon" width="100"/>
+    <img align="center" src="img.png" alt="icon" width="300"/>
     
   - ``detectMultiScale`` function is helped to detect the coordinated of the face.
     - ``
@@ -36,7 +36,7 @@ Both face detection and tracking have numerous applications in various fields, i
     2. Initializing the Camera. 
     3. Reading Frame from Camera.
     4. Converting a Color image into Grayscale Image.
-    (which helps to reduce processing time and remove color variations that may be affected to detect the face.)
+        - (which helps to reduce processing time and remove color variations that may be affected to detect the face.)
     5. Obtaining Face coordinates by the passing algorithm. 
     6. Drawing Rectangle on the Face Coordinates.
     7. Display the output Frame.
